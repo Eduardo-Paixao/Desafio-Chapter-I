@@ -26,8 +26,8 @@ export function TaskList() {
         },
       ]),
       setNewTaskTitle("")
-      ):(
-        alert("A nova tesk deve conter um titulo")
+      ):(''
+        // alert("A nova tesk deve conter um titulo")
       ) 
   }
 
